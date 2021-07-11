@@ -7,4 +7,4 @@ I am a self taught stackoverflow copy paster. Started in late 2015 and was the b
 - 🤔 I’m looking for help with Spring Boot and Cassandra.
 - 📫 How to reach me: chaks.gautam@gmail.com
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: I co-own a 🐈 [cat boarding place](https://bookcatinn.wixsite.com/catinndelhi); I have a masters degree in Civil Engineer and can design your house to last for a century.
+- ⚡ Fun fact: I co-own a 🐈 [cat boarding place](https://bookcatinn.wixsite.com/catinndelhi); I have a masters degree in Civil Engineering and can design your house to last for a century.
