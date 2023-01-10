@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a self taught stackoverflow copy paster. Started in late 2015 and was the best decision of my life.
+I am a self taught ChatGPT copy paster. Started in late 2015 and was the best decision of my life.
 
 - 🔭 I’m currently working on [Unified Communication Interface](https://github.com/Samagra-Development/UCI)
 - 🌱 I’m currently learning Kubernetes, Spring Boot, Typescript and Cassandra.
