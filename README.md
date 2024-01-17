@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a self taught ChatGPT copy paster. Started in late 2015 and was the second best decision of my life.
 
-- 🔭 I’m currently working on [AmakrushAI](https://github.com/AmakrushAI) and [stylusDB](https://github.com/ChakshuGautam/stylusdb-sql).
+- 🔭 I’m currently working on [AmakrushAI](https://github.com/AmakrushAI) and [StylusDB SQL](https://github.com/ChakshuGautam/stylusdb-sql).
 - 🌱 I’m currently learning Rust, [Transformers](https://github.com/ChakshuGautam/transformers), Kubernetes, Typescript and ~Cassandra~ CockroachDB.
 - 👯 I’m looking to collaborate on projects involving ASTs, DX tools, Transformers.
 - 🤔 I’m looking for help with fundamentally understanding Transformers.
